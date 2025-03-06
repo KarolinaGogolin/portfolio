@@ -9,7 +9,7 @@ I am a Computer Science student with experience in a wide range of technologies,
 - **Languages:** C, C++, C#, Embedded C, Assembly
 - **Embedded Systems:** ATmega, Arduino, Raspberry Pi, Linux (Kernel, Shell Scripting, System Programming)
 - **Protocols:** I2C, SPI, UART
-- **Tools:** GDB, Git, Visual Studio, Arduino IDE, Linux command line, Docker, Makefiles
+- **Tools:** GDB, Git, Visual Studio, Arduino IDE, Linux command line, Makefiles
 - **Frameworks:** Azure, REST APIs
 - **Concepts:** Memory Management, Debugging, Low-Level Programming, SCRUM (Agile Methodology), Continuous Integration, Version Control
 - **Operating Systems:** Linux (Ubuntu, Raspberry Pi OS), Windows
