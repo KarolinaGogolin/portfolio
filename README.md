@@ -5,13 +5,14 @@ Welcome to my coding portfolio! Here you'll find a collection of my personal and
 ## 🚀 About Me
 I am a Computer Science student with experience in a wide range of technologies, including **low-level programming**, **embedded systems**, **full-stack development**, and **hardware integration**. I’m passionate about learning and applying new skills to solve real-world problems. I started my studies with little experience in coding, but through hard work and dedication, I completed my first year with **cum laude honors**. I am now focused on maintaining these high standards and continuously expanding my knowledge to tackle new challenges. I am a strong believer that with enough dedication and passion everything can be achieved.
 
-### 🔧 Skills & Technologies:
-- **Languages:** C, C++, C#, Embedded C, Assembly  
-- **Embedded Systems:** ATmega, Arduino, Raspberry Pi  
-- **Protocols:** I2C, SPI, UART  
-- **Tools:** GDB, Git, Visual Studio, Arduino IDE  
-- **Frameworks:** Azure, REST APIs  
-- **Concepts:** Memory Management, Debugging, Low-Level Programming
+## 🔧 Skills & Technologies:
+- **Languages:** C, C++, C#, Embedded C, Assembly
+- **Embedded Systems:** ATmega, Arduino, Raspberry Pi, Linux (Kernel, Shell Scripting, System Programming)
+- **Protocols:** I2C, SPI, UART
+- **Tools:** GDB, Git, Visual Studio, Arduino IDE, Linux command line, Docker, Makefiles
+- **Frameworks:** Azure, REST APIs
+- **Concepts:** Memory Management, Debugging, Low-Level Programming, SCRUM (Agile Methodology), Continuous Integration, Version Control
+- **Operating Systems:** Linux (Ubuntu, Raspberry Pi OS), Windows
 
 ## 💡 Currently Learning
 I am actively learning about **Real-Time Operating Systems (RTOS)**, focusing on kernel development, task scheduling, and resource management. I am working with **Raspberry Pi** and **Linux**, gaining hands-on experience in configuring and optimizing systems for embedded applications. Additionally, I am expanding my knowledge in **Data Networks** and **Computer Networking**, including TCP/IP, network protocols, and real-time data communication. I am also diving into **VHDL** to understand digital design and FPGA programming, which complements my embedded systems background.
@@ -28,6 +29,7 @@ Here are some of the most exciting projects I've worked on:
    - Debugging of the code using GDB
    - Mostly dealing with user input, processing it, validating it and clearing the buffer
 
+
 ### 2. **[Thermometer & Pressure Sensor with ATmega](https://github.com/KarolinaGogolin/atmega_temp_press_sensors)**
    Developed an embedded system using the ATmega microcontroller and sensors to measure environmental data. The project involved sensor integration via I2C communication, firmware development in Embedded C, and serial debugging to ensure accurate readings.
 
@@ -38,6 +40,7 @@ Here are some of the most exciting projects I've worked on:
    temperature was below zero (LED on for negative temperatures, off otherwise).
 
    <img src="https://github.com/user-attachments/assets/952e9214-144e-482e-abb5-f3ad5a44387c" width="500" />
+
 
 ### 3. **[Group Project: [LoRaWeather: A Smart IoT Weather Station]]()**
 
@@ -50,6 +53,7 @@ Technologies used: C#, C++, SQL, MQTT, LiveCharts, and Microsoft MAUI.
   - Designed and implemented the user interface (GUI).
   - Collaborated with a teammate to create a cohesive and user-friendly GUI.
   - Integrated the back-end with the front-end for smooth data display.
+
 
 ### 4. **[Group Project: Autonomous Line-Following and Obstacle-Avoiding Vehicle](https://github.com/KarolinaGogolin/portfolio/tree/main/car_demo)**
 
@@ -69,6 +73,15 @@ This project involved developing an autonomous vehicle capable of following a li
 Unfortunately the repository for this project no longer exists. You can find all the demo videos in the [car_demo directory](https://github.com/KarolinaGogolin/portfolio/tree/main/car_demo).
 
 *Note: Unfortunately no videos of the car going up and down the hill exist*
+
+
+## 🔮 Next in Line
+I am continuously striving to enhance my skills and stay up-to-date with the latest technologies. In the near future, I am focusing on learning and developing expertise in the following areas:
+
+- Rust: A systems programming language that emphasizes safety and performance, especially in low-level programming.
+- Advanced C++: Diving deeper into modern C++ features (e.g., C++20, multithreading, design patterns) to build robust and efficient applications.
+- Real-Time Operating Systems (RTOS): Gaining more expertise in real-time systems and understanding advanced scheduling and task management techniques.
+
 
 ## 🌐 Let's Connect
 Feel free to reach out for collaborations, questions, or feedback!  
