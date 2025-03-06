@@ -42,7 +42,7 @@ Here are some of the most exciting projects I've worked on:
    <img src="https://github.com/user-attachments/assets/952e9214-144e-482e-abb5-f3ad5a44387c" width="500" />
 
 
-### 3. **[Group Project: [LoRaWeather: A Smart IoT Weather Station]]()**
+### 3. **[Group Project: [LoRaWeather: A Smart IoT Weather Station]](https://github.com/true-herosir/LoRa-Weather-Station)**
 
 This project is a Windows-based application that reads and visualizes weather data from sensors connected to The Things Network. The app features a user-friendly interface with real-time updates, scalable graphs, and a detailed display of sensor data from a specified city. It includes a SQL Server API to pull data from a database, an MQTT parser for real-time data retrieval, and Arduino code to interface with sensors. The project also includes a ready-to-host webpage for easy deployment.
 
